@@ -39,7 +39,3 @@ func Gallows() string {
 	}
 	return "You lose("
 }
-
-func main() {
-	fmt.Println(Gallows())
-}
